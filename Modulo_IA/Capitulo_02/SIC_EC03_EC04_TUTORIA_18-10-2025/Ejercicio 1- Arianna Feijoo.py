@@ -50,7 +50,7 @@ print("\nMagnitud de u:", magnitud_u)
 print("Magnitud de v:", magnitud_v)
 
 
-# -- Ejercicios con Derivadas --
+# --Ejercicios con Derivadas--
 
 x = symbols('x')
 f_x = x**3 + 2*x**2 + x
